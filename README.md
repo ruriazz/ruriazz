@@ -85,7 +85,7 @@
 **AI & agent tooling**
 
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white)
 
 ## Featured work
